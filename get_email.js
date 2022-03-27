@@ -1,3 +1,4 @@
+// Get email from #Email field and send it to Google Analytics
 window.addEventListener("DOMContentLoaded", function () {
 	if (typeof(gtag) === "function") { // Is GA loaded ?
 	const ga_email = document.getElementById("Email");
