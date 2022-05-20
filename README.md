@@ -1,5 +1,5 @@
 # javascript-analytics
-Collection of scripts for GA tracking
+Collection of scripts for Google Analytics tracking
 
 ## click-tracking.js
 Track any click on a button labelled with the button-tel class name.
