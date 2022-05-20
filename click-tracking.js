@@ -1,4 +1,4 @@
-window.addEventListener("DOMContentLoaded", function () {
+window.addEventListener("DOMContentLoaded", () => {
   if (typeof(gtag) === "function") { // Is GA loaded ?
     const ga_buttons = document.querySelectorAll('.button-tel'); // Check buttons
     ga_buttons.forEach(query_button => {
